@@ -1,0 +1,24 @@
+{
+  "o2o_AM_addAddress001":
+  {
+    "house_number": "123",
+    "contacts_name": "SeanPan",
+    "detailed_address": "Pepper Lunch宝安区",
+    "contacts_phone": "13000000000",
+    "long": 113.594193,
+    "latitude": 22.15143,
+    "contacts_phone_area": "86",
+    "token": "{token}"
+  } ,
+  "o2o_AM_addAddress002":
+  {
+    "house_number": "123",
+    "contacts_name": "SeanPan",
+    "detailed_address": "Pepper Lunch宝安区",
+    "contacts_phone": "13000000000",
+    "long": 113.594193,
+    "latitude": 22.15143,
+    "contacts_phone_area": "86",
+    "token": "{token}"
+  }
+}

@@ -1,0 +1,11 @@
+<suite name="Cucumber" verbose="1">
+    <listeners>
+        <listener class-name="O2O.util.BroadCast"/>
+    </listeners>
+    <test name="Regression">
+        <classes>
+            <class name="O2O.runner.E2E_Run"/>
+        </classes>
+    </test>
+
+</suite>
